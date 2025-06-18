@@ -2,6 +2,15 @@
 
 An intelligent HR assistant powered by AI that can answer employee questions, provide policy information, and assist with HR-related inquiries using natural language processing.
 
+## 🎥 Demo Video
+
+Watch the HR Agent in action:
+
+<video width="800" height="600" controls>
+  <source src="HR_Agent.MOV" type="video/quicktime">
+  Your browser does not support the video tag.
+</video>
+
 ## 🚀 Features
 
 ### 🤖 AI-Powered Responses
