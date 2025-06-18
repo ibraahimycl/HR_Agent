@@ -42,6 +42,7 @@ HR_Agent/
 ├── requirements.txt      # Python dependencies
 ├── hr_policy.txt         # HR policies and procedures
 ├── sample_employee.csv   # Sample employee database
+├── HR_Agent.MOV          # Demo video showing the application in action
 └── README.md             # This file
 ```
 
