@@ -1,0 +1,31 @@
+employee_id,name,position,organizational_unit,rank,hire_date,regularization_date,vacation_leave,sick_leave,basic_pay_in_php,employment_status,password
+9961107,Michelle Evans,HR Officer,Marketing Department,Staff,01/19/2018,09/21/2023,12,15,43089,Permanent,michelle321
+7817881,Emily Baker,Marketing Specialist,Customer Service,Senior Staff,07/14/2016,08/21/2021,17,7,67421,Permanent,emilypass
+4262081,Robert Thompson,Project Manager,Customer Service,Manager,12/05/2018,02/20/2019,25,11,30989,Permanent,robert321
+6075395,Aaron Myers,Marketing Specialist,Customer Service,Staff,04/17/2019,09/19/2021,27,9,58475,Permanent,aaron321
+2154126,John Lewis,Software Engineer,HR Department,Supervisor,10/31/2018,05/01/2019,15,12,69640,Probationary,johnpwd
+2149597,John Daniel,Marketing Specialist,Finance Department,Senior Staff,04/04/2016,04/15/2017,22,6,52334,Permanent,john2024
+5041154,Ashley Dyer,Marketing Specialist,Finance Department,Staff,09/09/2017,03/23/2024,25,6,64846,Probationary,ashleypwd
+6901533,Michael Smith,Accounts Recievable Supervisor,Marketing Department,Manager,01/01/2020,11/03/2025,27,13,67420,Probationary,michael321
+3871230,Sharon James,Marketing Specialist,Customer Service,Senior Staff,04/12/2019,09/07/2024,15,12,39867,Contractual,sharon2024
+2867825,Allison Hill,HR Officer,Customer Service,Supervisor,04/27/2017,09/11/2019,17,8,24144,Probationary,allisonpwd
+6707197,Stephanie Ross,HR Officer,HR Department,Manager,04/15/2017,08/22/2019,15,12,15212,Probationary,stephaniepwd
+8231838,John Pierce,Accounts Recievable Supervisor,Marketing Department,Manager,09/04/2017,03/01/2022,24,5,59129,Probationary,john123
+6323376,Andrew Ruiz,Data Analyst,Operations,Manager,02/13/2017,12/13/2024,27,12,25430,Probationary,andrew321
+2264748,Jocelyn Wright,Data Analyst,Operations,Staff,12/19/2015,09/18/2021,11,15,50427,Permanent,jocelynpass
+1430812,Courtney Gonzalez,Accounts Recievable Supervisor,Operations,Manager,08/18/2015,05/31/2016,22,8,19980,Probationary,courtneypass
+6708456,Rhonda Smith,Accounts Recievable Supervisor,IT Department,Senior Staff,10/12/2016,12/21/2023,20,6,21078,Contractual,rhonda2024
+4934149,Jordan Frazier,Accounts Recievable Supervisor,HR Department,Supervisor,12/25/2019,10/18/2022,27,6,24068,Permanent,jordan2024
+4879923,Ashley Waller,Data Analyst,Customer Service,Senior Staff,12/09/2016,06/15/2021,16,6,42188,Contractual,ashley321
+7730428,Maria Lynch,Accounts Recievable Supervisor,Finance Department,Senior Staff,11/16/2016,01/15/2021,28,10,28934,Probationary,maria123
+2651177,Jenny Lewis,HR Officer,Marketing Department,Supervisor,01/04/2020,11/16/2025,13,8,27556,Permanent,jenny321
+5476257,Kristine Garcia,Software Engineer,Customer Service,Staff,12/30/2019,10/22/2021,22,5,45847,Permanent,kristine2024
+3117636,Kayla Leon,Data Analyst,Customer Service,Staff,11/12/2016,04/22/2018,28,8,45476,Probationary,kayla123
+6672134,James Martin,HR Officer,Operations,Senior Staff,12/07/2019,12/08/2019,28,8,15471,Permanent,james123
+6033115,Thomas Ramos,Data Analyst,HR Department,Staff,02/07/2020,12/07/2020,10,12,55708,Probationary,thomas2024
+1775337,Nicole Frost,Software Engineer,Marketing Department,Staff,06/08/2017,10/15/2024,24,11,56272,Probationary,nicolepass
+3320821,Jennifer Jones,Marketing Specialist,Marketing Department,Staff,03/31/2020,12/03/2022,11,6,25016,Probationary,jenniferpwd
+1666754,Gerald Hensley,Marketing Specialist,Finance Department,Manager,07/15/2017,03/02/2019,28,14,49261,Contractual,gerald123
+5679639,Victoria Larson,Data Analyst,IT Department,Manager,03/10/2019,05/25/2024,28,14,58790,Contractual,victoriapwd
+6960453,Benjamin Stanley,Software Engineer,Customer Service,Supervisor,11/19/2017,07/24/2018,30,6,54920,Probationary,benjaminpwd
+5180853,Nancy Wright,HR Officer,Marketing Department,Senior Staff,10/10/2016,08/12/2018,24,15,49808,Probationary,nancy2024
