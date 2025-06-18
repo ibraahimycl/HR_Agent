@@ -89,15 +89,17 @@ python hr_agent.py
 
 ### AI Components
 - **Language Model**: Advanced NLP for understanding queries
-- **Embedding System**: Efficient policy document search
+- **Embedding System**: Efficient policy document search using FAISS
 - **Response Generation**: Context-aware answer generation
 - **Memory Management**: Conversation history tracking
+- **FAISS Vector Store**: Fast similarity search for retrieving relevant policy information
 
 ### Data Management
 - **CSV Integration**: Employee data from CSV files
 - **Policy Storage**: Text-based policy documents
-- **Embedding Database**: Vector storage for quick retrieval
+- **Embedding Database**: Vector storage for quick retrieval using FAISS
 - **Session Management**: User session handling
+- **FAISS Vector Store**: High-performance similarity search for policy retrieval
 
 ### Security Features
 - **Input Validation**: Secure query processing
@@ -129,6 +131,7 @@ The project includes:
 - **NumPy**: Numerical computing
 - **Requests**: HTTP library for API calls
 - **Streamlit**: Web interface framework
+- **FAISS**: High-performance similarity search and clustering for vector storage
 
 ## 📝 License
 
