@@ -164,18 +164,18 @@ Press `Ctrl+C` to stop everything.
 
 ---
 
-## Örnek Sorgular
+## Example Queries
 
-**Çalışan olarak:**
-- "Kaç gün iznim var?"
-- "Maaşım ne kadar?"
-- "İzin encashment kuralları nedir?"
+**As an Employee:**
+- "How many days of leave do I have left?"
+- "What is my salary?"
+- "What are the leave encashment rules?"
 
-**İK olarak:**
-- "Emily Baker'ın encashment tutarı ne kadar?"
-- "Aaron Myers hakkında bilgi ver." → "Bunun maaşı ne kadar?"
-- "Emily Baker, Aaron Myers ve Jordan Frazier'ın toplam encashment maliyeti nedir?"
-- "Deneme süresi çalışanları hangi izin türlerini kullanamaz?"
+**As HR:**
+- "What is Emily Baker's encashment amount?"
+- "Tell me about Aaron Myers." → "What is this person's salary?"
+- "What is the total encashment cost for Emily Baker, Aaron Myers, and Jordan Frazier?"
+- "Which leave types cannot be used by probationary employees?"
 
 ---
 
