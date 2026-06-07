@@ -40,6 +40,9 @@ User Question
                   + Policy citations
 ```
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/72cdb8c0-c32c-441f-af4d-155fb390612a" />
+
+
 ### RAG Pipeline
 
 Policy documents are indexed into **ChromaDB** using section-aware chunking — each HR policy section (A. Vacation Leave, B. Sick Leave, VI. Leave Encashment, etc.) becomes its own chunk. Section context is injected directly into the text before embedding so the model always knows which section a rule belongs to.
