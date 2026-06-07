@@ -16,11 +16,11 @@ An HR assistant built with a real **Agentic RAG** architecture. Employees and HR
 
 The system uses **OpenAI Function Calling** (`create_openai_tools_agent`) — the LLM decides which tool to invoke based on the user's question. Every decision is logged and shown in the UI as "Agent Reasoning".
 
-```
+
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/72cdb8c0-c32c-441f-af4d-155fb390612a" />
 
-```
+
 
 ### RAG Pipeline
 
