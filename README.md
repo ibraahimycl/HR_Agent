@@ -17,31 +17,10 @@ An HR assistant built with a real **Agentic RAG** architecture. Employees and HR
 The system uses **OpenAI Function Calling** (`create_openai_tools_agent`) — the LLM decides which tool to invoke based on the user's question. Every decision is logged and shown in the UI as "Agent Reasoning".
 
 ```
-User Question
-     │
-     ▼
-┌─────────────────────────────────────────────┐
-│              LLM (gpt-4o-mini)              │
-│  Reads: system prompt + session context     │
-│  Decides: which tool(s) to call             │
-└──────────┬───────────────┬──────────────────┘
-           │               │               │
-           ▼               ▼               ▼
-  get_employee_info  calculate_hr_metrics  query_policy
-  (CSV database)     (HR calculations)    (ChromaDB RAG)
-           │               │               │
-           └───────────────┴───────────────┘
-                           │
-                     Security Validator
-                  (runs before every tool)
-                           │
-                     Final Answer
-                  + Agent Reasoning steps
-                  + Policy citations
-```
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/72cdb8c0-c32c-441f-af4d-155fb390612a" />
 
+```
 
 ### RAG Pipeline
 
